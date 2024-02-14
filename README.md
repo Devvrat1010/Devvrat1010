@@ -34,8 +34,8 @@
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Nextjs](https://img.shields.io/badge/-Nextjs-000?&logo=Next.js)
 
-### Full Stack Projects
 <!-- 
+### Full Stack Projects
 [![](https://img.shields.io/badge/-🧬%20My%20Website-000)](https://janmejay.me)
 [![](https://img.shields.io/badge/-📰LocallyYours-000)](https://locally-yours.netlify.app/)
 [![](https://img.shields.io/badge/-📝Midway-000)](https://github.com/NotTheRightGuy/HackNUThon)
@@ -56,8 +56,8 @@
 
 You can reach me at the email in my github profile. Some other places you can find me:
 
-[<img src="./assets/LinkedIn.png" height="40em" align="center" alt="Follow Janmejay on LinkedIn" title="Follow Janmejay on LinkedIn"/>](https://linkedin.com/in/janmejay-chatterjee)
-[<img src="./assets/twitter.png" height="40em" align="center" alt="Follow Janmejay on Twitter" title="Follow Janmejay on Twitter"/>](https://twitter.com/notjanmejay)
-[<img src="./assets/reddit.webp" height="60em" align="center" alt="Follow Janmejay on Reddit" title="Follow Janmejay on Reddit"/>](https://www.reddit.com/user/N0tTheRightGuy)
-[<img src="./assets/leetcode.webp" height="40em" align="center" alt="Follow Janmejay on Leetcode" title="Follow Janmejay on Leetcode"/>](https://leetcode.com/janmejaychatterjee/)
-[<img src="./assets/codeforces.webp" height="40em" align="center" alt="Follow Janmejay on Codeforces" title="Follow Janmejay on Codeforces"/>](https://codeforces.com/profile/Delsion/)
+[<img src="./assets/LinkedIn.png" height="40em" align="center" alt="Follow Devvrat on LinkedIn" title="Follow Devvrat on LinkedIn"/>](https://www.linkedin.com/in/devvrat-singh-rathod-a096a9221/)
+[<img src="./assets/twitter.png" height="40em" align="center" alt="Follow Devvrat on Twitter" title="Follow Devvrat on Twitter"/>](https://twitter.com/Devvrat1010)
+[<img src="./assets/leetcode.webp" height="40em" align="center" alt="Follow Devvrat on Leetcode" title="Follow Devvrat on Leetcode"/>](https://leetcode.com/Devvrat12/)
+[<img src="./assets/codeforces.webp" height="40em" align="center" alt="Follow Devvrat on Codeforces" title="Follow Devvrat on Codeforces"/>](https://codeforces.com/profile/Devvrat1010)
+[<img src="./assets/codeforces.webp" height="40em" align="center" alt="Follow Devvrat on Codeforces" title="Follow Devvrat on Codeforces"/>](https://www.codechef.com/users/devvrat_singh2)
