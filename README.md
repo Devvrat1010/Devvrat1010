@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Devvrat Singh </h1>
+<h1 align="center">Hi 👋, I'm Devvrat Singh Rathod </h1>
 
 ## 📖 About Me
 
