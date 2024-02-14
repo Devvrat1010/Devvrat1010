@@ -63,10 +63,10 @@
 You can reach me at the email in my github profile. Some other places you can find me:
 
 [<img src="./assets/linkedIn.png" height="40em" align="center" alt="Follow Devvrat on LinkedIn" title="Follow Devvrat on LinkedIn"/>](https://www.linkedin.com/in/devvrat-singh-rathod-a096a9221/)
-[<img src="./assets/twitter.png" height="40em" align="center" alt="Follow Devvrat on Twitter" title="Follow Devvrat on Twitter"/>](https://twitter.com/Devvrat1010)
+[<img src="./assets/twitter.jpg" height="40em" align="center" alt="Follow Devvrat on Twitter" title="Follow Devvrat on Twitter"/>](https://twitter.com/Devvrat1010)
 [<img src="./assets/leetcode.webp" height="40em" align="center" alt="Find Devvrat on Leetcode" title="Follow Devvrat on Leetcode"/>](https://leetcode.com/Devvrat12/)
 [<img src="./assets/codeforces.webp" height="40em" align="center" alt="Friend Devvrat on Codeforces" title="Follow Devvrat on Codeforces"/>](https://codeforces.com/profile/Devvrat1010)
-[<img src="./assets/codechef" height="40em" align="center" alt="Find Devvrat on codechef" title="Follow Devvrat on Codeforces"/>](https://www.codechef.com/users/devvrat_singh2)
+[<img src="./assets/codechef.jpg" height="40em" align="center" alt="Find Devvrat on codechef" title="Follow Devvrat on Codeforces"/>](https://www.codechef.com/users/devvrat_singh2)
 
 
 
