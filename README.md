@@ -43,8 +43,14 @@
 -->
 
 ## 🔔 My Github Metrics
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Devvrat1010&show_icons=true&locale=en&layout=compact" alt="prem2310" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Devvrat1010&show_icons=true&locale=en" alt="prem2310" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Devvrat1010&" alt="prem2310" /></p>
+<!--
 ![Metrics](/github-metrics.svg)
+-->
 
 <!-- 
 ## 📌 Holopins
@@ -56,8 +62,13 @@
 
 You can reach me at the email in my github profile. Some other places you can find me:
 
-[<img src="./assets/LinkedIn.png" height="40em" align="center" alt="Follow Devvrat on LinkedIn" title="Follow Devvrat on LinkedIn"/>](https://www.linkedin.com/in/devvrat-singh-rathod-a096a9221/)
+[<img src="./assets/linkedIn.png" height="40em" align="center" alt="Follow Devvrat on LinkedIn" title="Follow Devvrat on LinkedIn"/>](https://www.linkedin.com/in/devvrat-singh-rathod-a096a9221/)
 [<img src="./assets/twitter.png" height="40em" align="center" alt="Follow Devvrat on Twitter" title="Follow Devvrat on Twitter"/>](https://twitter.com/Devvrat1010)
-[<img src="./assets/leetcode.webp" height="40em" align="center" alt="Follow Devvrat on Leetcode" title="Follow Devvrat on Leetcode"/>](https://leetcode.com/Devvrat12/)
-[<img src="./assets/codeforces.webp" height="40em" align="center" alt="Follow Devvrat on Codeforces" title="Follow Devvrat on Codeforces"/>](https://codeforces.com/profile/Devvrat1010)
-[<img src="./assets/codeforces.webp" height="40em" align="center" alt="Follow Devvrat on Codeforces" title="Follow Devvrat on Codeforces"/>](https://www.codechef.com/users/devvrat_singh2)
+[<img src="./assets/leetcode.webp" height="40em" align="center" alt="Find Devvrat on Leetcode" title="Follow Devvrat on Leetcode"/>](https://leetcode.com/Devvrat12/)
+[<img src="./assets/codeforces.webp" height="40em" align="center" alt="Friend Devvrat on Codeforces" title="Follow Devvrat on Codeforces"/>](https://codeforces.com/profile/Devvrat1010)
+[<img src="./assets/codechef" height="40em" align="center" alt="Find Devvrat on codechef" title="Follow Devvrat on Codeforces"/>](https://www.codechef.com/users/devvrat_singh2)
+
+
+
+
+
