@@ -28,8 +28,9 @@
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 
 ### Technologies
-
+<!--
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
+-->
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Nextjs](https://img.shields.io/badge/-Nextjs-000?&logo=Next.js)
