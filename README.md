@@ -48,7 +48,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Devvrat1010&show_icons=true&locale=en" alt="prem2310" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Devvrat1010&" alt="prem2310" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Devvrat1010&" alt="Devvrat1010" /></p>
 <!--
 ![Metrics](/github-metrics.svg)
 -->
